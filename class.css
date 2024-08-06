@@ -1,0 +1,60 @@
+.bird{
+    height: 48px;
+    width: 150px;
+    margin: 6px 10px 0px 10px;
+    filter: drop-shadow(3px 4px 3px rgb(0, 0, 0));
+}
+.search{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 48vw;
+
+}
+.text{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 12px;
+    width: 30vw;
+    box-shadow: 1px 1px 5px black;
+    border: none;
+}
+.pic{
+    margin: 15px auto;
+    width: 360px;
+    height: 180px;
+    box-shadow: 0px 0px 1px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#mimg{
+    margin: 5px auto;
+    width: 340px;
+    height: 165px;
+    /* align-items: center; */
+}
+.cards{
+    margin: 15px;
+    justify-content: center;
+    display:inline-flex;
+    overflow-x: scroll;    
+    width: 100vw;
+
+}
+#bat{
+    height: 91px;
+    width: 107px;
+    box-shadow:0px 0px 2.5px black;
+}
+.carditem{
+    margin: 5px;
+    height: 160px;
+    text-align: center;
+    width: 130px;
+    padding: 10px;
+}
+.lines{
+    font-family: "Playfair Display", serif;
+    text-align: center;
+}
